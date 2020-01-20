@@ -1,0 +1,13 @@
+{
+  "name": "david",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "text-to-mp3": "^1.0.4"
+  }
+}
